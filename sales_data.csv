@@ -1,0 +1,312 @@
+Date,Product_Name,Category,Region,Channel,Quantity,Price_Per_Unit,Sales_Amount,Profit
+2025-01-01,Curtains,Home Decor,West,Online,1,45.0,45.0,9.65
+2025-01-01,Lamp,Home Decor,West,In-Store,1,30.0,30.0,7.31
+2025-01-01,Lamp,Home Decor,North,In-Store,1,30.0,30.0,9.54
+2025-01-02,Sneakers,Clothing,South,In-Store,3,60.0,180.0,56.68
+2025-01-02,Laptop,Electronics,West,In-Store,1,800.0,800.0,224.5
+2025-01-02,Sofa,Home Decor,North,In-Store,4,450.0,1800.0,322.51
+2025-01-02,Laptop,Electronics,East,In-Store,1,800.0,800.0,317.81
+2025-01-02,Lamp,Home Decor,South,Wholesale,46,25.5,1173.0,415.57
+2025-01-02,Jeans,Clothing,South,Online,3,40.0,120.0,24.79
+2025-01-02,Headphones,Electronics,South,In-Store,1,50.0,50.0,19.32
+2025-01-02,Jeans,Clothing,East,In-Store,4,40.0,160.0,31.39
+2025-01-03,T-Shirt,Clothing,South,Wholesale,49,17.0,833.0,129.12
+2025-01-03,Jeans,Clothing,East,Wholesale,12,34.0,408.0,68.23
+2025-01-03,Lamp,Home Decor,West,In-Store,2,30.0,60.0,10.22
+2025-01-03,Smartwatch,Electronics,South,Online,2,150.0,300.0,97.25
+2025-01-04,Sneakers,Clothing,North,Wholesale,14,51.0,714.0,201.84
+2025-01-04,Jacket,Clothing,East,In-Store,2,80.0,160.0,30.93
+2025-01-04,T-Shirt,Clothing,East,In-Store,1,20.0,20.0,6.09
+2025-01-04,Laptop,Electronics,West,In-Store,2,800.0,1600.0,501.63
+2025-01-04,Smartphone,Electronics,North,Online,2,500.0,1000.0,280.04
+2025-01-05,Jeans,Clothing,West,Online,2,40.0,80.0,13.95
+2025-01-05,Smartwatch,Electronics,West,Online,2,150.0,300.0,47.58
+2025-01-06,Smartphone,Electronics,East,Online,2,500.0,1000.0,167.7
+2025-01-06,Sofa,Home Decor,North,Online,1,450.0,450.0,78.41
+2025-01-06,Lamp,Home Decor,South,Wholesale,31,25.5,790.5,221.66
+2025-01-06,Curtains,Home Decor,North,Wholesale,41,38.25,1568.25,534.06
+2025-01-06,Sneakers,Clothing,South,In-Store,3,60.0,180.0,67.23
+2025-01-07,Rug,Home Decor,South,In-Store,3,120.0,360.0,101.89
+2025-01-07,Jacket,Clothing,South,In-Store,4,80.0,320.0,101.1
+2025-01-07,Smartphone,Electronics,West,Wholesale,45,425.0,19125.0,5490.7
+2025-01-07,Headphones,Electronics,North,In-Store,1,50.0,50.0,7.87
+2025-01-07,Curtains,Home Decor,West,In-Store,2,45.0,90.0,31.14
+2025-01-07,T-Shirt,Clothing,South,Online,1,20.0,20.0,3.09
+2025-01-08,Headphones,Electronics,East,Wholesale,39,42.5,1657.5,355.37
+2025-01-08,Smartphone,Electronics,West,In-Store,1,500.0,500.0,153.31
+2025-01-09,T-Shirt,Clothing,North,Online,2,20.0,40.0,13.21
+2025-01-09,Laptop,Electronics,East,Online,4,800.0,3200.0,746.22
+2025-01-09,Smartwatch,Electronics,West,Wholesale,20,127.5,2550.0,509.26
+2025-01-10,Laptop,Electronics,South,In-Store,1,800.0,800.0,139.95
+2025-01-10,Sneakers,Clothing,North,In-Store,4,60.0,240.0,41.85
+2025-01-10,Jeans,Clothing,South,Online,1,40.0,40.0,6.26
+2025-01-11,Sneakers,Clothing,East,Online,4,60.0,240.0,70.84
+2025-01-11,Laptop,Electronics,East,Online,3,800.0,2400.0,441.28
+2025-01-11,Curtains,Home Decor,East,Online,1,45.0,45.0,11.78
+2025-01-11,Jeans,Clothing,West,Wholesale,35,34.0,1190.0,206.58
+2025-01-12,Rug,Home Decor,East,In-Store,2,120.0,240.0,85.43
+2025-01-12,Sofa,Home Decor,East,Online,3,450.0,1350.0,411.16
+2025-01-12,Curtains,Home Decor,North,Online,1,45.0,45.0,13.68
+2025-01-12,Lamp,Home Decor,North,In-Store,3,30.0,90.0,21.99
+2025-01-13,Jacket,Clothing,South,Wholesale,19,68.0,1292.0,455.04
+2025-01-13,Headphones,Electronics,East,In-Store,1,50.0,50.0,15.34
+2025-01-13,Laptop,Electronics,East,In-Store,2,800.0,1600.0,457.52
+2025-01-13,Lamp,Home Decor,South,Online,2,30.0,60.0,22.54
+2025-01-13,Smartwatch,Electronics,East,Wholesale,27,127.5,3442.5,908.52
+2025-01-13,Jeans,Clothing,North,Online,1,40.0,40.0,12.87
+2025-01-13,Smartphone,Electronics,East,Online,4,500.0,2000.0,431.99
+2025-01-13,Rug,Home Decor,West,In-Store,3,120.0,360.0,90.12
+2025-01-13,T-Shirt,Clothing,North,Wholesale,11,17.0,187.0,37.96
+2025-01-14,Smartphone,Electronics,North,Online,4,500.0,2000.0,463.47
+2025-01-14,Jeans,Clothing,South,Online,1,40.0,40.0,6.69
+2025-01-14,Headphones,Electronics,West,In-Store,4,50.0,200.0,35.64
+2025-01-14,Curtains,Home Decor,North,Wholesale,36,38.25,1377.0,475.58
+2025-01-14,Smartwatch,Electronics,East,Online,1,150.0,150.0,32.17
+2025-01-14,T-Shirt,Clothing,South,Wholesale,24,17.0,408.0,123.71
+2025-01-14,Jeans,Clothing,North,In-Store,1,40.0,40.0,7.37
+2025-01-15,Rug,Home Decor,North,Online,3,120.0,360.0,133.21
+2025-01-15,Laptop,Electronics,East,Wholesale,43,680.0,29240.0,6712.5
+2025-01-15,Headphones,Electronics,East,Online,2,50.0,100.0,30.18
+2025-01-16,Lamp,Home Decor,North,Online,1,30.0,30.0,4.69
+2025-01-16,Rug,Home Decor,South,Wholesale,40,102.0,4080.0,1219.59
+2025-01-16,Lamp,Home Decor,East,In-Store,4,30.0,120.0,21.47
+2025-01-16,Smartwatch,Electronics,South,In-Store,2,150.0,300.0,83.41
+2025-01-17,T-Shirt,Clothing,East,In-Store,1,20.0,20.0,3.29
+2025-01-17,Sofa,Home Decor,North,Wholesale,48,382.5,18360.0,5860.84
+2025-01-17,Curtains,Home Decor,East,In-Store,4,45.0,180.0,53.4
+2025-01-17,Lamp,Home Decor,South,Online,3,30.0,90.0,26.12
+2025-01-18,Smartwatch,Electronics,West,In-Store,3,150.0,450.0,96.23
+2025-01-18,Smartwatch,Electronics,South,In-Store,4,150.0,600.0,188.55
+2025-01-19,T-Shirt,Clothing,East,Wholesale,11,17.0,187.0,53.04
+2025-01-19,Sofa,Home Decor,North,In-Store,3,450.0,1350.0,413.05
+2025-01-19,T-Shirt,Clothing,South,In-Store,2,20.0,40.0,9.74
+2025-01-19,Sneakers,Clothing,North,Online,4,60.0,240.0,67.28
+2025-01-19,Sofa,Home Decor,West,Online,1,450.0,450.0,129.89
+2025-01-19,Sofa,Home Decor,West,Wholesale,10,382.5,3825.0,768.51
+2025-01-19,Sofa,Home Decor,East,Online,4,450.0,1800.0,406.51
+2025-01-19,Smartwatch,Electronics,East,Wholesale,42,127.5,5355.0,921.86
+2025-01-20,Smartphone,Electronics,East,Online,4,500.0,2000.0,366.64
+2025-01-20,Jacket,Clothing,West,In-Store,4,80.0,320.0,89.55
+2025-01-20,Sofa,Home Decor,East,Online,2,450.0,900.0,160.12
+2025-01-20,Smartphone,Electronics,North,Online,4,500.0,2000.0,567.74
+2025-01-21,Rug,Home Decor,South,Online,2,120.0,240.0,46.33
+2025-01-21,Rug,Home Decor,West,Wholesale,10,102.0,1020.0,301.02
+2025-01-21,Jeans,Clothing,West,Online,4,40.0,160.0,31.09
+2025-01-21,Sofa,Home Decor,South,Online,4,450.0,1800.0,594.33
+2025-01-21,Rug,Home Decor,East,In-Store,2,120.0,240.0,39.92
+2025-01-21,Rug,Home Decor,West,Online,2,120.0,240.0,42.29
+2025-01-22,Rug,Home Decor,South,Wholesale,44,102.0,4488.0,1588.86
+2025-01-22,Curtains,Home Decor,East,Online,3,45.0,135.0,31.39
+2025-01-22,Sneakers,Clothing,South,Online,4,60.0,240.0,94.08
+2025-01-23,Jeans,Clothing,West,Wholesale,39,34.0,1326.0,500.13
+2025-01-24,Lamp,Home Decor,West,Wholesale,34,25.5,867.0,194.65
+2025-01-24,Smartwatch,Electronics,West,In-Store,4,150.0,600.0,165.73
+2025-01-24,Laptop,Electronics,North,Wholesale,10,680.0,6800.0,1076.12
+2025-01-25,Laptop,Electronics,East,Online,2,800.0,1600.0,442.44
+2025-01-25,Jeans,Clothing,North,Wholesale,23,34.0,782.0,173.19
+2025-01-25,Rug,Home Decor,East,Online,2,120.0,240.0,56.22
+2025-01-25,Laptop,Electronics,South,Wholesale,11,680.0,7480.0,2444.83
+2025-01-25,Lamp,Home Decor,West,Online,3,30.0,90.0,31.08
+2025-01-25,Smartwatch,Electronics,South,Online,2,150.0,300.0,60.16
+2025-01-25,Jeans,Clothing,East,Online,2,40.0,80.0,19.86
+2025-01-25,Smartwatch,Electronics,North,Online,1,150.0,150.0,44.36
+2025-01-26,Curtains,Home Decor,East,Wholesale,26,38.25,994.5,194.07
+2025-01-26,Jeans,Clothing,East,Online,4,40.0,160.0,41.05
+2025-01-26,Rug,Home Decor,North,Online,4,120.0,480.0,150.23
+2025-01-26,T-Shirt,Clothing,North,Wholesale,42,17.0,714.0,202.87
+2025-01-26,Smartphone,Electronics,South,Wholesale,25,425.0,10625.0,1699.46
+2025-01-26,Headphones,Electronics,East,In-Store,1,50.0,50.0,18.0
+2025-01-27,T-Shirt,Clothing,North,Online,1,20.0,20.0,3.77
+2025-01-27,Jeans,Clothing,West,Wholesale,12,34.0,408.0,142.47
+2025-01-28,Smartphone,Electronics,East,In-Store,2,500.0,1000.0,226.41
+2025-01-28,Jeans,Clothing,North,Online,4,40.0,160.0,25.72
+2025-01-28,Laptop,Electronics,West,Wholesale,39,680.0,26520.0,4594.71
+2025-01-28,Sneakers,Clothing,East,Wholesale,49,51.0,2499.0,472.88
+2025-01-28,Curtains,Home Decor,East,Wholesale,11,38.25,420.75,118.86
+2025-01-28,Lamp,Home Decor,South,In-Store,3,30.0,90.0,17.03
+2025-01-29,Headphones,Electronics,East,Online,3,50.0,150.0,45.39
+2025-01-29,Lamp,Home Decor,West,In-Store,2,30.0,60.0,9.92
+2025-01-29,T-Shirt,Clothing,North,In-Store,1,20.0,20.0,5.4
+2025-01-30,Smartphone,Electronics,North,In-Store,1,500.0,500.0,173.24
+2025-01-30,Rug,Home Decor,North,Online,1,120.0,120.0,40.21
+2025-01-30,Smartwatch,Electronics,East,Wholesale,11,127.5,1402.5,233.86
+2025-02-01,Curtains,Home Decor,North,In-Store,2,45.0,90.0,21.9
+2025-02-01,Smartwatch,Electronics,West,In-Store,3,150.0,450.0,126.31
+2025-02-01,Smartwatch,Electronics,South,In-Store,3,150.0,450.0,176.3
+2025-02-02,Jacket,Clothing,South,Wholesale,20,68.0,1360.0,436.32
+2025-02-02,Rug,Home Decor,East,Wholesale,31,102.0,3162.0,667.17
+2025-02-02,Sneakers,Clothing,North,Online,3,60.0,180.0,69.1
+2025-02-03,Headphones,Electronics,East,In-Store,1,50.0,50.0,11.81
+2025-02-04,Headphones,Electronics,North,In-Store,1,50.0,50.0,18.53
+2025-02-04,Sofa,Home Decor,South,In-Store,2,450.0,900.0,344.29
+2025-02-05,Sofa,Home Decor,East,Wholesale,13,382.5,4972.5,752.46
+2025-02-05,Smartphone,Electronics,East,Wholesale,27,425.0,11475.0,2704.21
+2025-02-06,T-Shirt,Clothing,West,Wholesale,17,17.0,289.0,62.5
+2025-02-06,Smartwatch,Electronics,West,Online,4,150.0,600.0,188.78
+2025-02-06,Smartwatch,Electronics,North,Online,1,150.0,150.0,24.81
+2025-02-06,Rug,Home Decor,East,Online,1,120.0,120.0,35.88
+2025-02-07,T-Shirt,Clothing,South,In-Store,4,20.0,80.0,24.02
+2025-02-07,T-Shirt,Clothing,South,In-Store,4,20.0,80.0,24.62
+2025-02-08,Rug,Home Decor,North,Online,3,120.0,360.0,73.87
+2025-02-08,Rug,Home Decor,West,Wholesale,42,102.0,4284.0,1638.41
+2025-02-08,Laptop,Electronics,East,In-Store,3,800.0,2400.0,957.56
+2025-02-08,Smartphone,Electronics,West,Online,1,500.0,500.0,145.73
+2025-02-08,Rug,Home Decor,West,Wholesale,49,102.0,4998.0,894.15
+2025-02-08,Smartwatch,Electronics,East,Online,1,150.0,150.0,24.67
+2025-02-08,T-Shirt,Clothing,South,In-Store,3,20.0,60.0,18.5
+2025-02-08,Laptop,Electronics,West,Wholesale,47,680.0,31960.0,5845.91
+2025-02-08,Jacket,Clothing,West,Wholesale,22,68.0,1496.0,242.86
+2025-02-09,Jeans,Clothing,North,Online,4,40.0,160.0,57.06
+2025-02-10,Jeans,Clothing,West,Online,3,40.0,120.0,35.79
+2025-02-10,Sofa,Home Decor,South,Online,1,450.0,450.0,102.32
+2025-02-10,Lamp,Home Decor,West,In-Store,1,30.0,30.0,4.98
+2025-02-10,Sofa,Home Decor,South,Online,4,450.0,1800.0,481.07
+2025-02-11,Laptop,Electronics,South,Online,2,800.0,1600.0,424.14
+2025-02-11,Laptop,Electronics,North,Online,4,800.0,3200.0,732.33
+2025-02-11,Headphones,Electronics,South,Wholesale,41,42.5,1742.5,564.36
+2025-02-11,Smartphone,Electronics,East,Online,1,500.0,500.0,156.43
+2025-02-11,Jeans,Clothing,North,Wholesale,39,34.0,1326.0,489.95
+2025-02-12,Laptop,Electronics,South,Wholesale,33,680.0,22440.0,3565.55
+2025-02-12,Jeans,Clothing,East,In-Store,2,40.0,80.0,28.22
+2025-02-13,Rug,Home Decor,North,Online,1,120.0,120.0,46.51
+2025-02-13,Sofa,Home Decor,East,In-Store,1,450.0,450.0,119.29
+2025-02-13,Sofa,Home Decor,North,Wholesale,45,382.5,17212.5,3352.54
+2025-02-13,Sofa,Home Decor,South,In-Store,1,450.0,450.0,74.5
+2025-02-14,Headphones,Electronics,South,In-Store,1,50.0,50.0,19.45
+2025-02-14,Rug,Home Decor,West,Wholesale,32,102.0,3264.0,723.4
+2025-02-14,Jeans,Clothing,East,Wholesale,16,34.0,544.0,82.9
+2025-02-14,Laptop,Electronics,South,Wholesale,31,680.0,21080.0,4115.3
+2025-02-14,Headphones,Electronics,South,In-Store,4,50.0,200.0,64.09
+2025-02-14,Rug,Home Decor,East,Wholesale,45,102.0,4590.0,1521.93
+2025-02-16,Lamp,Home Decor,North,In-Store,1,30.0,30.0,5.08
+2025-02-16,Curtains,Home Decor,North,Online,3,45.0,135.0,37.1
+2025-02-16,Sneakers,Clothing,South,In-Store,1,60.0,60.0,17.14
+2025-02-16,Rug,Home Decor,East,Wholesale,23,102.0,2346.0,790.14
+2025-02-16,Laptop,Electronics,East,Wholesale,40,680.0,27200.0,10851.65
+2025-02-16,Smartwatch,Electronics,East,In-Store,2,150.0,300.0,79.15
+2025-02-17,Rug,Home Decor,East,Wholesale,33,102.0,3366.0,897.78
+2025-02-17,Curtains,Home Decor,South,In-Store,3,45.0,135.0,48.56
+2025-02-17,Sofa,Home Decor,West,Wholesale,46,382.5,17595.0,6056.19
+2025-02-17,Smartwatch,Electronics,North,Online,1,150.0,150.0,58.31
+2025-02-17,Jacket,Clothing,North,In-Store,4,80.0,320.0,79.44
+2025-02-18,Rug,Home Decor,North,Wholesale,33,102.0,3366.0,1053.8
+2025-02-18,Sneakers,Clothing,North,Wholesale,41,51.0,2091.0,595.94
+2025-02-18,Lamp,Home Decor,South,Online,1,30.0,30.0,7.35
+2025-02-18,Smartphone,Electronics,West,Online,4,500.0,2000.0,366.74
+2025-02-18,Sofa,Home Decor,North,In-Store,3,450.0,1350.0,517.41
+2025-02-18,Laptop,Electronics,West,Online,3,800.0,2400.0,756.88
+2025-02-18,Sneakers,Clothing,North,Online,2,60.0,120.0,25.57
+2025-02-18,Lamp,Home Decor,West,Online,1,30.0,30.0,8.68
+2025-02-18,Rug,Home Decor,South,In-Store,4,120.0,480.0,107.06
+2025-02-19,Headphones,Electronics,West,Online,4,50.0,200.0,31.47
+2025-02-19,Jeans,Clothing,East,Wholesale,18,34.0,612.0,236.57
+2025-02-19,Jacket,Clothing,South,In-Store,2,80.0,160.0,36.82
+2025-02-20,Jeans,Clothing,East,Online,4,40.0,160.0,57.0
+2025-02-20,Laptop,Electronics,East,Online,4,800.0,3200.0,1219.29
+2025-02-20,Smartphone,Electronics,West,Online,2,500.0,1000.0,377.67
+2025-02-20,Curtains,Home Decor,North,Online,2,45.0,90.0,17.88
+2025-02-21,Sofa,Home Decor,South,Online,1,450.0,450.0,100.49
+2025-02-21,Lamp,Home Decor,East,Online,2,30.0,60.0,15.64
+2025-02-21,Lamp,Home Decor,West,Wholesale,46,25.5,1173.0,398.61
+2025-02-21,Sofa,Home Decor,North,In-Store,3,450.0,1350.0,326.12
+2025-02-22,Curtains,Home Decor,West,In-Store,1,45.0,45.0,16.35
+2025-02-22,Lamp,Home Decor,South,Online,2,30.0,60.0,14.01
+2025-02-23,Jacket,Clothing,West,Wholesale,20,68.0,1360.0,299.53
+2025-02-23,Sneakers,Clothing,South,In-Store,3,60.0,180.0,63.56
+2025-02-23,Lamp,Home Decor,West,Online,3,30.0,90.0,32.88
+2025-02-23,Sofa,Home Decor,South,Wholesale,29,382.5,11092.5,2466.53
+2025-02-23,Jeans,Clothing,East,In-Store,4,40.0,160.0,36.13
+2025-02-24,Laptop,Electronics,East,Online,2,800.0,1600.0,473.37
+2025-02-24,Smartphone,Electronics,North,Wholesale,32,425.0,13600.0,3375.89
+2025-02-24,Rug,Home Decor,West,In-Store,2,120.0,240.0,89.85
+2025-02-25,Smartphone,Electronics,East,In-Store,1,500.0,500.0,146.4
+2025-02-25,Laptop,Electronics,South,Wholesale,38,680.0,25840.0,7217.37
+2025-02-26,T-Shirt,Clothing,East,Wholesale,42,17.0,714.0,158.11
+2025-02-26,Headphones,Electronics,West,Online,1,50.0,50.0,14.85
+2025-02-26,Curtains,Home Decor,West,Online,4,45.0,180.0,27.6
+2025-02-26,Jeans,Clothing,North,Wholesale,21,34.0,714.0,212.78
+2025-02-26,Jacket,Clothing,East,Online,1,80.0,80.0,28.43
+2025-02-26,Jeans,Clothing,North,Wholesale,44,34.0,1496.0,585.1
+2025-02-27,Headphones,Electronics,North,Online,2,50.0,100.0,31.81
+2025-02-27,Jeans,Clothing,North,Online,1,40.0,40.0,12.2
+2025-02-27,Smartwatch,Electronics,North,Online,1,150.0,150.0,49.26
+2025-02-27,T-Shirt,Clothing,South,In-Store,4,20.0,80.0,22.98
+2025-02-27,Curtains,Home Decor,East,In-Store,4,45.0,180.0,57.2
+2025-02-28,Jacket,Clothing,West,Online,2,80.0,160.0,24.9
+2025-02-28,Smartwatch,Electronics,East,Online,3,150.0,450.0,71.5
+2025-02-28,Smartwatch,Electronics,South,Wholesale,11,127.5,1402.5,537.85
+2025-03-01,Smartphone,Electronics,North,In-Store,4,500.0,2000.0,579.15
+2025-03-01,Smartwatch,Electronics,South,Online,1,150.0,150.0,30.06
+2025-03-02,Smartphone,Electronics,West,Online,4,500.0,2000.0,674.13
+2025-03-02,Smartphone,Electronics,North,Online,3,500.0,1500.0,360.58
+2025-03-02,Jacket,Clothing,North,Wholesale,44,68.0,2992.0,876.03
+2025-03-03,Smartwatch,Electronics,South,Wholesale,47,127.5,5992.5,1832.11
+2025-03-03,Headphones,Electronics,West,In-Store,3,50.0,150.0,43.55
+2025-03-03,Smartphone,Electronics,North,In-Store,2,500.0,1000.0,286.95
+2025-03-03,Laptop,Electronics,West,Wholesale,43,680.0,29240.0,10035.24
+2025-03-03,Laptop,Electronics,East,Online,2,800.0,1600.0,566.64
+2025-03-03,Jeans,Clothing,East,In-Store,2,40.0,80.0,15.61
+2025-03-03,Smartphone,Electronics,North,Wholesale,28,425.0,11900.0,2942.87
+2025-03-04,T-Shirt,Clothing,South,Online,2,20.0,40.0,8.31
+2025-03-04,Smartphone,Electronics,South,Wholesale,22,425.0,9350.0,1550.96
+2025-03-04,Headphones,Electronics,North,Online,2,50.0,100.0,30.87
+2025-03-04,Rug,Home Decor,West,Wholesale,26,102.0,2652.0,830.99
+2025-03-04,Lamp,Home Decor,North,Online,1,30.0,30.0,7.44
+2025-03-04,Headphones,Electronics,East,Online,2,50.0,100.0,24.84
+2025-03-04,Sofa,Home Decor,North,Online,2,450.0,900.0,216.36
+2025-03-05,Sneakers,Clothing,North,In-Store,2,60.0,120.0,19.52
+2025-03-05,Laptop,Electronics,West,Online,2,800.0,1600.0,512.18
+2025-03-05,Curtains,Home Decor,North,Online,2,45.0,90.0,19.4
+2025-03-05,Sneakers,Clothing,West,Online,3,60.0,180.0,60.14
+2025-03-05,Smartphone,Electronics,North,In-Store,3,500.0,1500.0,388.78
+2025-03-06,Curtains,Home Decor,West,Wholesale,16,38.25,612.0,189.87
+2025-03-06,Headphones,Electronics,South,In-Store,4,50.0,200.0,53.22
+2025-03-06,Sofa,Home Decor,North,In-Store,1,450.0,450.0,173.78
+2025-03-07,Sofa,Home Decor,West,In-Store,2,450.0,900.0,233.47
+2025-03-08,Jeans,Clothing,West,Online,3,40.0,120.0,24.11
+2025-03-08,T-Shirt,Clothing,South,Online,3,20.0,60.0,17.47
+2025-03-09,Headphones,Electronics,North,Wholesale,44,42.5,1870.0,664.25
+2025-03-09,Smartphone,Electronics,North,Wholesale,12,425.0,5100.0,1603.46
+2025-03-09,Smartphone,Electronics,East,Online,2,500.0,1000.0,284.32
+2025-03-09,Smartphone,Electronics,South,In-Store,2,500.0,1000.0,351.4
+2025-03-10,Lamp,Home Decor,North,In-Store,4,30.0,120.0,40.03
+2025-03-10,Rug,Home Decor,West,Wholesale,14,102.0,1428.0,466.46
+2025-03-10,Rug,Home Decor,North,In-Store,4,120.0,480.0,187.79
+2025-03-10,Headphones,Electronics,North,Online,4,50.0,200.0,34.24
+2025-03-10,Lamp,Home Decor,East,In-Store,2,30.0,60.0,19.55
+2025-03-10,Smartphone,Electronics,West,Wholesale,29,425.0,12325.0,2347.96
+2025-03-10,Jeans,Clothing,North,Wholesale,41,34.0,1394.0,332.75
+2025-03-11,Sneakers,Clothing,West,Online,3,60.0,180.0,32.35
+2025-03-11,Jeans,Clothing,West,In-Store,4,40.0,160.0,28.56
+2025-03-11,Headphones,Electronics,West,Wholesale,32,42.5,1360.0,427.94
+2025-03-11,Headphones,Electronics,South,In-Store,4,50.0,200.0,34.68
+2025-03-11,Rug,Home Decor,East,Wholesale,17,102.0,1734.0,561.46
+2025-03-11,Sneakers,Clothing,East,Wholesale,33,51.0,1683.0,268.84
+2025-03-12,Jacket,Clothing,North,Wholesale,25,68.0,1700.0,663.87
+2025-03-13,Sofa,Home Decor,West,Online,3,450.0,1350.0,472.99
+2025-03-13,Smartphone,Electronics,South,Online,4,500.0,2000.0,437.4
+2025-03-13,T-Shirt,Clothing,South,In-Store,1,20.0,20.0,4.25
+2025-03-13,Rug,Home Decor,South,Wholesale,49,102.0,4998.0,866.15
+2025-03-13,Smartphone,Electronics,West,Online,1,500.0,500.0,147.28
+2025-03-14,Headphones,Electronics,East,Online,3,50.0,150.0,25.1
+2025-03-14,T-Shirt,Clothing,East,Online,2,20.0,40.0,14.42
+2025-03-14,Curtains,Home Decor,South,Online,4,45.0,180.0,55.58
+2025-03-14,Sofa,Home Decor,South,Online,3,450.0,1350.0,417.72
+2025-03-14,Rug,Home Decor,West,Online,2,120.0,240.0,77.47
+2025-03-14,Smartwatch,Electronics,North,Online,1,150.0,150.0,48.93
+2025-03-14,Rug,Home Decor,West,Online,2,120.0,240.0,92.11
+2025-03-14,Smartphone,Electronics,East,In-Store,4,500.0,2000.0,413.14
+2025-03-15,Smartwatch,Electronics,East,Wholesale,37,127.5,4717.5,1453.72
+2025-03-15,Smartwatch,Electronics,West,In-Store,3,150.0,450.0,138.87
+2025-03-16,Smartwatch,Electronics,North,Wholesale,34,127.5,4335.0,1353.21
+2025-03-16,Jeans,Clothing,West,Wholesale,44,34.0,1496.0,247.18
+2025-03-16,Jacket,Clothing,West,Wholesale,38,68.0,2584.0,899.58
+2025-03-16,T-Shirt,Clothing,East,Wholesale,35,17.0,595.0,101.78
+2025-03-16,Sofa,Home Decor,West,Online,4,450.0,1800.0,373.86
+2025-03-16,Smartwatch,Electronics,West,Online,1,150.0,150.0,58.78
+2025-03-17,Lamp,Home Decor,East,In-Store,1,30.0,30.0,6.48
+2025-03-17,Headphones,Electronics,South,Online,3,50.0,150.0,35.16
+2025-03-17,Sofa,Home Decor,North,In-Store,1,450.0,450.0,101.76
+2025-03-18,Curtains,Home Decor,East,Wholesale,45,38.25,1721.25,299.77
+2025-03-18,Sofa,Home Decor,South,Wholesale,42,382.5,16065.0,5044.02
+2025-03-18,Jeans,Clothing,East,Wholesale,42,34.0,1428.0,420.08
